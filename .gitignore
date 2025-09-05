@@ -1,0 +1,5 @@
+/main.spec
+/dist
+/build/main
+/.venv
+/.mypy_cache
